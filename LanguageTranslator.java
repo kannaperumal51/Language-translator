@@ -163,7 +163,7 @@ public class LanguageTranslator {
                 // Show all translations for the specified language
                 translator.showAllTranslations(language);
             } else if (choice == 4) {
-                System.out.println("Thank you for using the Language Translator by ProjectGurukul!");
+                System.out.println("present by kannaperumal");
                 break;
             } else {
                 System.out.println("Invalid choice. Please try again.");
